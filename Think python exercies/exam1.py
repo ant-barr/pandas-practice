@@ -42,7 +42,7 @@ def is_prime(n):
     return True 
             
 
-print(is_prime(17))
+print(is_prime(9973))
 
 def fibonacci(n):
     if n <= 0:
