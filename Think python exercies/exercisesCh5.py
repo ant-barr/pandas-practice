@@ -151,7 +151,14 @@ def koch(x):
 
 make_turtle(delay = 0.02)
 koch(500)
-# %i%
+# %%
 '''
-this is me practising vim motions
-'''
+this is me practising vim motions '''
+#going to add a cell using the '#%%'
+import random
+num_list = [3, 4, 5, 6]
+print("list before shuffle: ", num_list)
+random.shuffle(num_list)
+print("List after shuffle: ", num_list)
+
+# %%
